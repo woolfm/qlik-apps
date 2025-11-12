@@ -1,0 +1,25 @@
+
+SHEETS
+{"qInfo":{"qId":"MXmdPJ","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"MXmdPJ","approved":false,"published":true,"publishTime":"2025-11-12T15:17:04.635Z","owner":"auth0|594145f4e543075fa8b14a596379fd33bdedfad59ede26eecb5da2ba3a680951","ownerId":"68dea0abfda0f8ce19163f40","createdDate":"2025-11-12T15:16:53.159Z","modifiedDate":"2025-11-12T15:16:53.159Z","encrypted":true,"privileges":["read","publish","change_owner"],"title":"My new sheet","description":""},"qData":[]}
+{"qInfo":{"qId":"tUvjLPs","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"tUvjLPs","approved":true,"published":true,"publishTime":"2025-10-22T17:29:39.327Z","owner":"auth0|594145f4e543075fa8b14a596379fd33bdedfad59ede26eecb5da2ba3a680951","ownerId":"68dea0abfda0f8ce19163f40","createdDate":"2025-11-07T18:07:11.230Z","modifiedDate":"2025-11-12T18:10:29.912Z","encrypted":true,"privileges":["read","publish","change_owner"],"title":"Recall Summary","description":""},"qData":[]}
+{"qInfo":{"qId":"yCujy","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"yCujy","approved":false,"published":false,"owner":"auth0|594145f4e543075fa8b14a596379fd33bdedfad59ede26eecb5da2ba3a680951","ownerId":"68dea0abfda0f8ce19163f40","createdDate":"2025-11-12T18:11:33.920Z","modifiedDate":"2025-11-12T18:11:33.920Z","encrypted":true,"privileges":["read","update","delete","publish","change_owner"],"title":"My new sheet","description":""},"qData":[]}
+
+OBJECTS ON SHEETS
+{"name":"WPyhEW","type":"kpi","col":0,"row":1,"colspan":8,"rowspan":2,"bounds":{"y":8.333333333333332,"x":0,"width":33.33333333333333,"height":16.666666666666664}}
+{"name":"udKsX","type":"kpi","col":8,"row":1,"colspan":8,"rowspan":2,"bounds":{"y":8.333333333333332,"x":33.33333333333333,"width":33.33333333333333,"height":16.666666666666664}}
+{"name":"LPszns","type":"barchart","col":0,"row":3,"colspan":12,"rowspan":9,"bounds":{"y":25,"x":0,"width":50,"height":75}}
+{"name":"RMNHPDJ","type":"kpi","col":16,"row":1,"colspan":8,"rowspan":2,"bounds":{"y":8.333333333333332,"x":66.66666666666666,"width":33.33333333333333,"height":16.666666666666664}}
+{"name":"pPmcycG","type":"barchart","col":12,"row":3,"colspan":12,"rowspan":9,"bounds":{"y":25,"x":50,"width":50,"height":75}}
+{"name":"VUwQfp","type":"filterpane","col":0,"row":0,"colspan":24,"rowspan":1,"bounds":{"y":0,"x":0,"width":100,"height":8.333333333333332}}
+
+DIMENSIONS
+
+MEASURES
+
+VARIABLES
+{"qName":"currentName","qDefinition":"Recalls_Data","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"f81b5446-9903-43aa-9218-0451b4b14d1b","qType":"variable"},"qData":[]}
+{"qName":"matches","qDefinition":"0","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"2a75d273-500c-42cb-8b20-51115ad96200","qType":"variable"},"qData":[]}
+{"qName":"name","qDefinition":"Recalls_Data","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"1d1f3bc1-e3e5-45d9-aed9-6c06d3abe86d","qType":"variable"},"qData":[]}
+{"qName":"index","qDefinition":"0","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"3d88e632-c2d3-47a0-ac8b-a3673cd44384","qType":"variable"},"qData":[]}
+
+FIELDS
