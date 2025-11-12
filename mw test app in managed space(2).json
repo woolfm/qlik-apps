@@ -1,0 +1,23 @@
+
+SHEETS
+{"qInfo":{"qId":"hWqPzrj","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"hWqPzrj","approved":true,"published":true,"publishTime":"2025-10-06T14:45:06.297Z","owner":"auth0|594145f4e543075fa8b14a596379fd33bdedfad59ede26eecb5da2ba3a680951","ownerId":"68dea0abfda0f8ce19163f40","createdDate":"2025-11-07T17:43:33.113Z","modifiedDate":"2025-11-07T17:43:33.113Z","encrypted":true,"privileges":["read","publish","change_owner"],"title":"My new sheet","description":""},"qData":[]}
+
+OBJECTS ON SHEETS
+{"name":"dMHML","type":"table","col":0,"row":1,"colspan":13,"rowspan":11,"bounds":{"y":8.333333333333332,"x":0,"width":54.166666666666664,"height":91.66666666666666}}
+{"name":"qPeCEH","type":"linechart","col":13,"row":1,"colspan":11,"rowspan":5,"bounds":{"y":8.333333333333332,"x":54.166666666666664,"width":45.83333333333333,"height":41.66666666666667}}
+{"name":"EDPP","type":"table","col":13,"row":6,"colspan":11,"rowspan":6,"bounds":{"y":50,"x":54.166666666666664,"width":45.83333333333333,"height":50}}
+{"name":"xCybtp","type":"kpi","col":13,"row":0,"colspan":5,"rowspan":1,"bounds":{"y":0,"x":54.166666666666664,"width":20.833333333333336,"height":8.333333333333332}}
+{"name":"MNbjj","type":"filterpane","col":0,"row":0,"colspan":4,"rowspan":1,"bounds":{"y":0,"x":0,"width":16.666666666666664,"height":8.333333333333332}}
+{"name":"KMjaKbh","type":"kpi","col":4,"row":0,"colspan":5,"rowspan":1,"bounds":{"y":0,"x":16.666666666666664,"width":20.833333333333336,"height":8.333333333333332}}
+{"name":"QdfytDj","type":"kpi","col":9,"row":0,"colspan":4,"rowspan":1,"bounds":{"y":0,"x":37.5,"width":16.666666666666664,"height":8.333333333333332}}
+{"name":"dwtQmsC","type":"action-button","col":18,"row":0,"colspan":3,"rowspan":1,"bounds":{"y":0,"x":75,"width":12.5,"height":8.333333333333332}}
+{"name":"ZGznekq","type":"kpi","col":21,"row":0,"colspan":3,"rowspan":1,"bounds":{"y":0,"x":87.5,"width":12.5,"height":8.333333333333332}}
+
+DIMENSIONS
+
+MEASURES
+{"qInfo":{"qId":"gHpUrnj","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"gHpUrnj","approved":true,"published":false,"owner":"auth0|594145f4e543075fa8b14a596379fd33bdedfad59ede26eecb5da2ba3a680951","ownerId":"68dea0abfda0f8ce19163f40","createdDate":"2025-10-24T17:29:29.387Z","modifiedDate":"2025-10-24T17:29:29.387Z","encrypted":true,"privileges":["read","update","delete","publish","change_owner"],"title":"Latest PayDate Hours","description":"","tags":[]},"qData":[]}
+
+VARIABLES
+
+FIELDS
