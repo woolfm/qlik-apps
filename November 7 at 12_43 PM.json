@@ -1,0 +1,23 @@
+
+SHEETS
+
+OBJECTS ON SHEETS
+
+DIMENSIONS
+
+MEASURES
+
+VARIABLES
+{"qName":"name","qDefinition":"November 7 at 12_43 PM","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"5fdda755-f731-4a40-97a9-4731df88e1bc","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"index","qDefinition":"0","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"9b022fce-ccfd-4e64-8944-b599a1f80dc3","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"currentName","qDefinition":"November 7 at 12_43 PM","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"6df4cb47-b8c4-4ae0-8d12-675a9afa2bdf","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"matches","qDefinition":"0","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"d6655844-66d7-4b0e-a7f6-8c71b81d33bf","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+
+FIELDS
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":1,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":1,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qName":"@1","qCardinal":52,"qTags":["$text"],"qSrcTables":["November 7 at 12_43 PM"]}
